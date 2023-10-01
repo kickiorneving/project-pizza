@@ -12,4 +12,6 @@ I used the knowledge from the class exercise with concert and artists and change
 
 ## View it live
 
-Have you deployed your project somewhere? Be sure to include the link to the deployed project so that the viewer can click around and see what it's all about. https://main--gorgeous-bubblegum-b1e496.netlify.app/
+Have you deployed your project somewhere? Be sure to include the link to the deployed project so that the viewer can click around and see what it's all about. 
+
+https://main--gorgeous-bubblegum-b1e496.netlify.app/
